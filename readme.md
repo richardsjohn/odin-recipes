@@ -1,1 +1,0 @@
-This project is meant to put my HTML knowledge into practice. This is my first project on The Odin Project.

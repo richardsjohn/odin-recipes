@@ -25,3 +25,9 @@ a:hover {
 .recipe {
     text-align: left;
 }
+
+img {
+     width: 50%;
+     height: auto;
+     border-radius: 5px;
+}
